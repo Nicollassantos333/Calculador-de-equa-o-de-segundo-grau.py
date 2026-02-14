@@ -1,0 +1,6 @@
+print(input("Digite seu nome: "))
+print("Que nome bonito! O meu é Akinicollator")
+print("Eu consigo adivinhar o número que você pensar!")
+n1 = input('Digite o número que você pensou: ')
+print("O Número que você pensou é {}?" .format(n1))
+print("Fazer o que né? Chefe é chefe pae")
